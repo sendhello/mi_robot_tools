@@ -1,0 +1,18 @@
+android-backup==0.2.0
+appdirs==1.4.4
+attrs==20.2.0
+cffi==1.14.3
+click==7.1.2
+construct==2.10.56
+croniter==0.3.35
+cryptography==3.1.1
+ifaddr==0.1.7
+natsort==7.0.1
+netifaces==0.10.9
+pycparser==2.20
+python-dateutil==2.8.1
+python-miio @ git+https://github.com/rytilahti/python-miio@c4ab5e6f63df67e2b30cb0ec8160e85e1df8e63d
+pytz==2020.1
+six==1.15.0
+tqdm==4.50.2
+zeroconf==0.28.6
